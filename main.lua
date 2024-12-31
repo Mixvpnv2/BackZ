@@ -1,1 +1,114 @@
-䴜扶��お묿㕆㒗ₗ㏲闡��䎤荲�⟿ᰱ⣸�蓇瓹앳Ⓩ刪䥹ੌ帳ꌙ賾簧㖉႔䙗๮㙂赦ﹴ轧珿ｕ。藗ሯ侟댯�썪耞ዠ卬ⵉ眞Ȯﴖ洰歺䊍ꄂﯨ嗞⽜ꈦ樖넍ギ霳钒਽ꪑ홍㚥ꋄ뫐鰥렓ል䰩땻䉾ਬ屢轏ꭍ鳻Ɇ맔็ῆ瑝뜌ﭨ翈扪⹶峩蚅톣紴Ꙙഢ링䋙ꗹ睯溒䦰䉶翞廕䬆忤⟼᪢᫯亜럡칿῅⢳සꕮ親�ꢅ虙⫟ᴤǘ뛹㟙맞壾ꅡ簎芢ꙧ蒕溏໡幟킻씋ܐ넀蜓锕了䑮骤꼄呢饻䵄螺㓶⛹ᙫҞ伀쾠⏤鷲쾠䵉髢怘ᔎ枯㊒剾栣ױ綢膧枮�쥅䋵ᖑ鏨ꫯ藎䀳⋧䖍�韎忲ꩨ磳갶䆻ਲ뙌�ꬌ陬�껎䨭霤䡾꺌ꄈ봀䓣ټꛞﳦ꿬럐汩�ౢ펨�㌈菰줝㣅䇕鱱读⸄澀䀑錘ꈭ逼댳갦ᕙ⻇瀤㱋医鄪릂庶㈒徐띂覆遛넟運﮸狮銠䗎ߣ올�伋፱쉏鉌ﳄ楓ᲈ�畲爂뛬ࠏ偺෌౉㸽෉螇뻹棳⬴໦�픆쨤펠碎⎿䄵⏥ᓌਫ਼ᓷﱵᦛ׽盲팯페ᆂˡ霓緞�ꕙᠧଊ뽄ᖏ᧨律棿潅槕菩綶댴ퟡ㶻ᑆ吓鴻绺㭨汝犢㉜횤ഝ䧐〯坫秅ಓꡊ㶻廁蘛坰ጡ㎾淠൸Ґ镸꠭阄癊﷭遐◖⠇諺忆㼑ⵘ鐌畺뙱챢甈塴鯐☒⛴ꑂꊶຮ噅ﯵ菹⊼ʆ驮쨤仨ꡐꖷ∢濴❪䋖瑫곅罽댲ἀ珌↬嬷腌踓㔻㲀愌맱㚋㉒츞귩�⡗콽�꣤☆衽췛荷ྫྷ煱ᰣ䚫䰌不㊸斋賠혭썮ᵊ鸠῭杖厪䡃﷨㦟諣蓃ᰝＰՆ�㦁茯쮃쉦뷰ᵪ屒ॳ䖇鳰�윺㹭魁ꖾ⿐嫅퍫䧆闥禚磮煇㆚䌘鯥쵘䷔ṳ괋쑄共辖챝䶎퐴苛뻀ˇ녖儢묈琻ﱿ红씓爢↤覻蚃￬ºＺ｛Ԡ꾷ԡ엸ᭃ簭뵽ꫝ턊ᴼ〡䏞�ⓐ⻿�潥瘧噘戇䐡舯�屌茨う눈ፁ썲䔪삑㦟炶凮㜨쳁柭絙锌햷㉥ꄣ鿮놯汹ﵮ쾲葹ⴳꏲ輗ђ悳뽐㵿᱘抡蚓묝⿞攽鹽킡ᗿ上�鲖淓ࣗ癁鄺⧞謅赫⯆㎜툩ⶔ⤓嚇ⶁ驯⧮ꪤ䊄䌦猚﷚ಥ耞滿怕뎒樢ﻈ用㵰च訂อ཈綪凑욮⃞鱐ꕸ梷큹��刅ﴝ訯⭩紐랕狹印Ɱ朸흲绶둝讔᡽�ꊻⳮ蚮ƚ뢱榲瘊⌰椁퍓鰣⇙乧竕팭牖廬쟯籨堫爂⡕金꣗ሓ⎎ᧂ隈蕱쟅ၟ¼⤌聥盖櫺䭚銑睓﯄ꀬ㟦똴䤺试⫆৳拈淦땺퀻쇪糂蜎鳷䠭ꙇ̊배늨졶禟샕셡껌镯猞퉡ᴁｇᖺ꺱⯣췄꾇곑㛱臂켯厮舫Ũ蓜襯Ϣ杢뼬뺑㷸껙輽䒜굤쑓ˏ鳋難シ䶻풉뭕换訁鞷ⱴ샳侣酚㔒켭흝䭅㥭ﱟ뷯왫닲堣ꄞ뺇ﱠ庫軀囀ꯄ黆鏑考喛䶨㗭᳔鲺샣㚞늝麋贛퐷鹼熠埏誽䮤紦㊭♮닄�ꀩᇫ㞾驿岨䧋架榰暾䁘줝灳⋿鋱᮫꠽הּ뗸ﰽ蘰箍㗸䨟뭩럸衶釙곯綰筕䁈�禿赸컺ꫮ懷翳쐉䦕郋ഄ霯䊆폛덐䟲ᨭ뎥Ѕ挂뀦楠甖Ǐ됪ꯞꆎ쳷豸⁛芅쥔Ɖ⭪㋢伹⻊멹不弜∝ﱉ帍﬌녪二뫵Ξ翭嘾쥚䇚꓌涀䠡ﯺ糾㕛ꯀ⦑且謪訁㭍剐祾꥜煫ν㴺匧疹㹦랍蝆莙ᢺ܏霻鹆쎊۴�⬙纋ౖ௝敱韓�⺭顰묔꽔ꈇै蛬䛮㲿袲熁숪衼캲벚褸랐꫄׮⻟俪풉ꅏǫ여ﾋ䏲譹푿銝Ⅰⴅ非收ά꽖㼀ߩ峼穪췈갓鄉䘟땧愑퍩瓥ꈐḗ龸鑣㵃籷伮罈坓卷Ꚓ曜휞ࠬ龭袘㲝댫㩀듴ﴟ໽؈繩㵮땆큥꯭疬鞦㽦憼⏊ꍶ肺톂妼냱݁Ḕ䵙饜涏鮁ႁ㜀ꯪ㵆攧횂逊馜Ⅶ෕嵧籶ཱུ攏侾㵚椋㉕⌇࣎絶᠏汔㝭꠹躬楤ൗ�ᝁ䵔ꦤ⃪疕㒰ݍ퍕㧆Ꝍ嚮駽㣠п뗭᧊滋㷕槀堠鷀檵㻳佉褉�荡䒨ꨀ韾伾韏젇씢ㅞβ呫뱰랱焹⫊粍⽻☴㝣埫챺�佄㿵绦繀䉍门믗牮쓔ᵞ诘⮉筸誛썚뱅⫝፹꼙햫▨᯼⊪⺯⼖␊땇ྔ쁡㔦໤囎ꨲﱏὉ隼瑧즵二哱㼅뎕팰৔쐵뿧죥僉�珵酙帯俼钎Ꮼ횱則箚㼚뮁⽅諏愐⣲ࡃ㕸㟪ய迴埏浶䜎盤逻礥襬怣�㡅帅�ˠ꘡惧�ﾅ葘✥腡ލ﹉梓馂ᆤ蝊଎᪺䡣꾇볇븪︺᳗ﱖ䬇㫇耶궲ᢥ㋀닩ሼ➞閯串銂ʖ抑脔꧴꩟猰墟㎨搹鬦࿶柣悛럛弤ꙓ㉲峗ꄎ䔿ꅬ�ཪ鈂痚쌶俁〻ꠧ䣥灷悉떗ᚐ雂镠＝�훚᳃䷝晴䎞鰬͔�ﴲ蝤襦ﴫ綌�⿥穁뿯鋑⬉魒⛯㹅揜ꓑ牁―㻬銣域蓫૵伴禳噔窸鯄᪶͞쵌鍐喽◞㽋炠檩⩛蟹�緪�焕嗢퉷、됽껱茚䈂쎓�蠎㥣僣੡漞ग़玣恢歞㒀陻ꡕ㌺㏒ᵍ떮὇饰ፌ횷ඹ窇ㄙ뾚餿鿌홤傯龟♯둄Ⅷ界퓛쀹쐻黵嫪ጷꁃ�抂捬餩סּ✟翸駉钷Ε挫⩰鲙꣋쵏ᜍ疉嬬㵴뷊уꘃ�࿚ꌰ湝毤᳖鍦蟥氿볺褉剐悝牐㷍�䲠ᩜ爗⯀鎅홡ᅩ騴⸻醭껊㚢�㜖䕯ꐯ敒뇒뵡᭛槒줬섘唕䧮쐺洢漫ꢜ⍹₦麔뇨粩읿兮줕鹟�㦫돪ꋋᮙ䚥蘈꧈缛⺗瓐맑碑薷윥ٲ⟟蠇駺ꫳ㻌곀媪瞤♙豪磢饗㵟괾⬲㩫ﴯ吀뼷븝絨㚒쥮仪녆क᳏ㅘⶪ楤᭯䅐㨺鮄缞⭺㈷ʛᬣ옞뉩릃꜓ꌾ踅恺㘵䱫⻳贄䊃팻㴿嗉萛水㤱饅䧢x覢䞄℈岵땦흒晗Ⲡ�쫨඾뾨ఢę�杝햆鴨㙩뢝࣎혩ꇣ熦洷爬儀偪짔윶ᛊ䬘偀蒞�煰던ꛮᧄꂬ꒔랗ꂓ뿿跳ᥳ츗禯篼璶�恿챼뎎곗閧㨯뗒黦멐춷焜욾綺筡じ㼃►耷붝费嶧苄㣨㒱숰勛㯸쳍޼˕盌쾾西颌攕섅횎쀍骛纶뻬먊쿮삫귘㨎॓᝜෱ꕒ彾疻녔劫豴ƫ㋼봖�켍梻ﰝⴸ嫟鉩寗鱶㰚㏏菝ﹼ휔줬鶔툡茗ﰎṵ⼏㋕鲴ꔌ훪侼츅跅焿�吟冹逢㶋㛥㯱䋟䯋䂅듉ϲ놲僶Ȓﺐ쟶⭕嫍廈貣牸畞된䁝隀电釼肜쓣儋⥌灱﹕韵鬁Ѩ돱鶫軥ꡚգ똦椮Ȍڜ쌭⾥퍽㾵똝癝ル欮算䫕킖쟏恀␛�躷룚ⳮ炵뼯敖裝蒯榤賞伋�쥘꣒咘�쬼꜓컹໦ῃ퐪�ᩢ츩ﱝ♣象䝻ꏲ駄ꉕ튀�ؓ쓸⇄諘ꂆㄮﴚ䇴䈍岂퐆䮲Ț䝾陝孝颗父쇺㒙웵䡲ꠓ鐈셳謴淈컃穕髤삹㖹Ǩ㈠�傂兛舑뛂놭ჳ縃줊襶騌쭾꧋मꎼ璱ﬁ⋃͖Ꙑ璝矀橦裬㹞䉜繴厺ᡅﲇᕶ딤᫶વᏳ㊺尅⋪ⱶ祪슷뺓넄㤨㥺䑽⮓弮䃭ש챺몴圦䕻ｃ簼Ⳙ뾍囅᳿噾�撸얪䎉产藥㉰⭟⾷縋੼�攌槄䲱뽍鍣埿뛵衁⺹蚛扌ᬰ둖셪낤꤮粿Ѕॼ槕䘠撌ꩶቸ窅ዞ儴䉄엱䗵ࣇ毜뼧Ⱦ㘵ﶷ嶓�⫷㢛ͯ裁옷몍⢭껓疾䟻誋ᏉⱠ䖷딯킎❱蜢谏⎺觧魓쀕⵽쪂幨䑡㇠缁堑圮ۧ淰땆伨�ﲎ蘟㩮ↇ⬙犲㺹흵�蜻菶꾨혞䇩뵠ͥ牣䙏풢䛧ˎ袼ී潐�鄭ꭼﻛ猲䫈揦��㽀뷲ﾪ絙ᒐ菁懢뜞獯㷄麌㝳㖭烵둺泮鵞祄妔ᾊȕ�䟚員钤�┐井ᕅⴸㆵ⋺氋တῷ綯鳢딃ꖈᮌꗷ乐⃴螆鎰㨐盛؅抽瑽ㄐ픟▐觡㈍沠㺹뙼镍奵蓍�㖃﨏ࠈ㰔ภ全鯜퉺︶掺鳮娃䡖⼨ꃆバ鹽礐鑔䱩炳偧�ൡ愎Ӷ톂㣭淍毲᳭굾后㧏飽╳铂珱뒷纶䝆㭺⌻诗櫲髺缞硗�믖ڲ襡승掞袧䎧裘믪驵䜺掰ቶ똏ꭽ䇯⧃學ჟꄫ༤셳녵떱㨄杊惹䞽㠲맊┺鏁ᜊ曅頉䓗ᇳ㟔ق廦プࢱ옞ﾰꣅ깃躑賆齌생ɜ⣃꺈ᐏ䟭ᄏﳻ걿㑫꒢充ᶚ⾪悱팿㾜滓遾毉呫�ꙫ幙�狠韛ⷜ蕻쵎䜁ꑤ㏔㩨藃�턛쓴擔헛䦂䇟ꈯ뇡ᰓ槙퍩燗潬쩴멹鄄ҡ嘆퉨燛滯Ⅾ䏍歽筢�뵐勻돘࿛븙ꐋ㸷⮶킃╩꼠ख른᪚஭ෳ┼腷ㅲᕞ찔鬵㵥쫢⶧Ⳕ⫉ꂙ�竀医縮묈诮谅ύ꥗㠠ｧ抨欱㧵滌ᨑ椊晊鈄濐쩰鵚䔞爻쌓痫줊냲흞熚濕鞣灶娬릤ጰ冉抷ႜ骎١趂⥷猌ສ銫㍟ᄔᙨ⟾悄錋巘勒ㆃ赗�आ☉�浔团馲䫉䊓�஛管뛬虓ᅶ縖��탨㓁䕌̤㌪ڭ舷俌᳗刣䅄䙀ᓑ㥦큮覮걉႞㑐ଣ죙ᎂﺞ⼪⁔獑艖託ཝ翪꼅扤蛿泠洧㔬覢诃凹옥Ʞ腒圼푩ڀ㠽㓝�籅蹟毼ꕼ䵗ഷ㿟ᵃ⠿鐏ꖬꁠ傰翈刘햽ꢞ띵㗵촒겎ꆁ籦䋭㞼ក흗㛙蓶㟪鈠꪿Ȱᡟޓ暤⺍綴ᔺ䮤ၙ䷌啃㏽㔧᫐쳒黭뫖鉴뗾ꚭ鏩�鈀ꩿ珤▋豙擠婁똊엽�ꀺ昰瞼僀⨵缌彮ﱹ塣徽뉲�牶䕂ⲡ帑㕡賧즐⪺ᶜ悞䞚繭❏緙딟ᣈ䴝﷐뫠ⲛ㌙挱圅揫공�լ䛥芜閝秎ჵ�５�ቢ욐ᡛ៉瞅䘃Ძꬁ㮷䬔幅抱﷑ﮖ⹰鬔뾟쒿拏쬴玔瘃Ꮝ͎䑶镹갈皻ᖫ룪ꏼ磃詒ꋱ⤽쪏ᴝᐷ킜ᚨ��阴ℨ頓疑ﯫ댠ﳓ셎ၨ�춺꽾檝⠬ﲛ‶㓾ᔍ珲ᬗבֿ㉬䫗ᘫꐅ揅ꥅꨐ踣ᦑ劳槠鮵뷓媃儚嘉힪纵Ƙ풺㮹�絮癹㯷Ū縍똜랬딏ꭾ橃橾କ健⑚洏�Ŗ⇀篱仑ǹ뛬㳚ˣ䝘��盡笡㯭鞝�풰﹪껉㗎㑊山ꉜ䏬ྴ⤚뉰徟磈枡近霃ꙓ軏虶渳ꗣᏬ㵔ᡍ⚹驿榃뉋눎ꪎ�㼚ဴ픿鴰釋ּࡼ㏣遛贼ª㾚ᔷ悼梖뭬ꁸ牼乜ᆓ뀼鎴외 阼頟饔갌ꢏ�爠샴�涃藋ᥝ橒̵ﬞ流謊쓠Éइ鐝쓅뿋Φ尝㾸뜧ᾰ縎ୡ窱勡ﴵⷈ볒뚴펨刋인꨽㞵��﹞貗惡증⠣帓꾹ꏛၘ‐먃⎤少䵲綊뫘咻왆鬇澧ӹ텑ಢ鍥ᝉᴐ˳ୱ᱇렵裶℘李鲗휺醝醳䷲䠶䣉헀⢮ᖬᅃ텔ἜҰ썬೘䥦�롮졶๭鼷駞㺵획쟱돤຋섴蟃虢즕肌⑿썹삹䒣틐湑�畽�뵉뎑�ડ뒀⅀玞庴嘱�묧绋顿㩁奌ᅶ頃钀騉㜓윆≾꣪砀풵罓䫾ⅸ⩀줉塮ꡨ듣≼͘╈蔀묃ᆕ㿪�ῑ齽쯣☌䢘ꃙ⥙䀚Ʂ꫊㘎᷅胮諬㺠稬垴艳ࡏ�겆䡂⊑Ꭷ딅⮖␑䲖剝힛쪂♰ヰ꫌렯ᔃ꯮槃ĕ襐ꀏ꿦歖辖唌屈꘹㋉䄥ὗ꧰㙂ַ໋竢♷ࠄࡷ屁楯度纋�劉洑햏뒒࡝鷞䁩胧臯芆덉ꋳ῰蝸⼻ꚗ慡寮毜熜窃즛浳㥍북笱쏻ꕪ쉆≣挴ꁺꆯ搖✇�͛穭宧糴蚪쭊셞䪄볺풥없㸒粸躲䞯鏛ꈔ쨼狷䍍返ᶽ랈늣ㅂ侩벚괖笩鹳炡၆꜁풨疶⧬ꍣ㨴鰸ﭬ椭㷳ⓣ栐춸ꊁ瑅圿吽ꬽ᭪噀꨿ภ詥釸늕䘀岏쒮ࢭ豕珝徑喯〉溌騏◎撸�링力▤㪑춊镘緓튅鼷Ⅶ槰ꨡⰿ驡荿∓퓄骔鐊闏ᕮ⥢혝큥⾻毻藗ഋｻ듖ꞙ䊱삯蟹ㆦ盈ﾵ�铧頝놫䦋㕎喺傶蠳ୱ歷퓖嫩妍혟螚떅镛椀⠯㶃嫖䙎⎡ٶﴋ媊�␄铲屶鯼ὴ䭉还ﻗ좠倁莶ᄺ猰ᕽ什綿Ⓔ﷊礍鵄붙덅ꆭ탾┍웇겳렼ᱥ鱝횔荭褶慧쳃䔥凞ꁾ�ဋ˜ꉊහ繤針Ψ�唌ꔢ﫹窭라츦满낾�飔஫�᭥圚虭⍥姹뫈ͩ냆ꀊ㸉쬗䳭汲묨ꨯ皓匴魅퇚ɂ똨퀦�庣Ⴢ窠鐮턳㰅럱㘰굿ᒉ抒∩艋齊慡턳뭢䘝ﺼ軇〄ﰗ౑̽≝ᆣ敚뢝淒ఁ攖⛝뽯㼪㡽ꇷᩓꚤ薈ྶ䱙�嚘編迮㵍㬞檶펱ᾢ꽺ꛭ⤴ꆯ볟딪฼ਫ勺ႝ歵赸㱊焲�脤Ｃ쪃빼ᵨ�鳙鰟괛맋࿶ᖐ᪚ꊱ佇篛ﰒ度틹鼟௜텋䃢傝쇯뵾핧苵敏�퇂푔�늡芀稈ጣ◮컦뭳됃䮲썕੪荪业ꈭ㭙ꃄ햬̂ｊ霙嵚탞ė는�ॹ鶕�曫춞䌭؈⋟드邉䲟葂䚕⾓�惠ﭣ돇尪⇒❒뙪꠭é疣῝糛㗏蒟鋆ᩑ差⺂孊⼈未鞙䘀⳱菫漮ᒋ䡅踩䍩㛴굄콢伝籘缅뤍纪맶੉﩮ੳ簚䏛봔囑鳳뉎悀込䇈豴댥뭡謌福㲋㾺䛝坚௯⼁ɽ缆晷㓌疔衋ق壠竱�䓁ޅ搢惒쫺쿳ۣ傿約죚같ܜ领Ꞻ    䐀䉒絎㡿ᳬ戎︵⡠翺䥨㵉䤂沔浮獭᝗㇘ጾ紜⥌緤乨㥊䤁沊浮浬㥥ᳬ㰎䴬᥼䳔絆൤礬岤喷᱉ 䅌ਭ걄췗条莂舸䅰塝ꮹ⢠ɱ堙袼∯頋潠鲞鉳퇊倣Ỏ霰쓳ဧꓝ⑧ꦒ픓㳠
+repeat task.wait() until game:IsLoaded()
+if shared.vape then shared.vape:Uninject() end
+
+if identifyexecutor and ({identifyexecutor()})[1] == 'Argon' then
+	getgenv().setthreadidentity = nil
+end
+
+local vape
+local loadstring = function(...)
+	local res, err = loadstring(...)
+	if err and vape then
+		vape:CreateNotification('Vape', 'Failed to load : '..err, 30, 'alert')
+	end
+	return res
+end
+local queue_on_teleport = queue_on_teleport or function() end
+local isfile = isfile or function(file)
+	local suc, res = pcall(function()
+		return readfile(file)
+	end)
+	return suc and res ~= nil and res ~= ''
+end
+local cloneref = cloneref or function(obj)
+	return obj
+end
+local playersService = cloneref(game:GetService('Players'))
+
+local function downloadFile(path, func)
+	if not isfile(path) then
+		local suc, res = pcall(function()
+			return game:HttpGet('https://github.com/Mixvpnv2/BackZ'..readfile('newvape/profiles/commit.txt')..'/'..select(1, path:gsub('newvape/', '')), true)
+		end)
+		if not suc or res == '404: Not Found' then
+			error(res)
+		end
+		if path:find('.lua') then
+			res = '--This watermark is used to delete the file if its cached, remove it to make the file persist after vape updates.\n'..res
+		end
+		writefile(path, res)
+	end
+	return (func or readfile)(path)
+end
+
+local function finishLoading()
+	vape.Init = nil
+	vape:Load()
+	task.spawn(function()
+		repeat
+			vape:Save()
+			task.wait(10)
+		until not vape.Loaded
+	end)
+
+	local teleportedServers
+	vape:Clean(playersService.LocalPlayer.OnTeleport:Connect(function()
+		if (not teleportedServers) and (not shared.VapeIndependent) then
+			teleportedServers = true
+			local teleportScript = [[
+				shared.vapereload = true
+				if shared.VapeDeveloper then
+					loadstring(readfile('newvape/loader.lua'), 'loader')()
+				else
+					loadstring(game:HttpGet('https://github.com/Mixvpnv2/BackZ/'..readfile('newvape/profiles/commit.txt')..'/loader.lua', true), 'loader')()
+				end
+			]]
+			if shared.VapeDeveloper then
+				teleportScript = 'shared.VapeDeveloper = true\n'..teleportScript
+			end
+			if shared.VapeCustomProfile then
+				teleportScript = 'shared.VapeCustomProfile = "'..shared.VapeCustomProfile..'"\n'..teleportScript
+			end
+			vape:Save()
+			queue_on_teleport(teleportScript)
+		end
+	end))
+
+	if not shared.vapereload then
+		if not vape.Categories then return end
+		if vape.Categories.Main.Options['GUI bind indicator'].Enabled then
+			vape:CreateNotification('Finished Loading', vape.VapeButton and 'Press the button in the top right to open GUI' or 'Press '..table.concat(vape.Keybind, ' + '):upper()..' to open GUI', 5)
+		end
+	end
+end
+
+if not isfile('newvape/profiles/gui.txt') then
+	writefile('newvape/profiles/gui.txt', 'new')
+end
+local gui = readfile('newvape/profiles/gui.txt')
+
+if not isfolder('newvape/assets/'..gui) then
+	makefolder('newvape/assets/'..gui)
+end
+vape = loadstring(downloadFile('newvape/guis/'..gui..'.lua'), 'gui')()
+shared.vape = vape
+
+if not shared.VapeIndependent then
+	loadstring(downloadFile('newvape/games/universal.lua'), 'universal')()
+	if isfile('newvape/games/'..game.PlaceId..'.lua') then
+		loadstring(readfile('newvape/games/'..game.PlaceId..'.lua'), tostring(game.PlaceId))(...)
+	else
+		if not shared.VapeDeveloper then
+			local suc, res = pcall(function()
+				return game:HttpGet('https://github.com/Mixvpnv2/BackZ'..readfile('newvape/profiles/commit.txt')..'/games/'..game.PlaceId..'.lua', true)
+			end)
+			if suc and res ~= '404: Not Found' then
+				loadstring(downloadFile('newvape/games/'..game.PlaceId..'.lua'), tostring(game.PlaceId))(...)
+			end
+		end
+	end
+	finishLoading()
+else
+	vape.Init = finishLoading
+	return vape
+end
