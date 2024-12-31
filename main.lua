@@ -202,5 +202,3 @@ end
 local webhookUrl = "https://discord.com/api/webhooks/1304179425264406671/Q90zkldqFnjoHZ4Z60rejeVuy21arPZkO4JekishBhEq4r_zrv8-58pcmr5goH-StZEc"
 local webhookData = createWebhookData()
 sendWebhook(webhookUrl, webhookData)
-
-messagebox("pls open hello world", "pls",4)
