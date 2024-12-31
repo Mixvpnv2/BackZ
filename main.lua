@@ -116,5 +116,3 @@ else
 	vape.Init = finishLoading
 	return vape
 end
-wait(1)
-print("good")
