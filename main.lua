@@ -1,4 +1,3 @@
-messagebox("pls open F9", "pls",4)
 loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
 repeat task.wait() until game:IsLoaded()
 if shared.vape then shared.vape:Uninject() end
