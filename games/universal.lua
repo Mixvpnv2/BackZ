@@ -1898,8 +1898,8 @@ run(function()
 	Options.Value = Fly:CreateSlider({
 		Name = 'Speed',
 		Min = 1,
-		Max = 150,
-		Default = 50,
+		Max = 80,
+		Default = 29,
 		Suffix = function(val)
 			return val == 1 and 'stud' or 'studs'
 		end
@@ -1907,8 +1907,8 @@ run(function()
 	VerticalValue = Fly:CreateSlider({
 		Name = 'Vertical Speed',
 		Min = 1,
-		Max = 150,
-		Default = 50,
+		Max = 100,
+		Default = 21,
 		Suffix = function(val)
 			return val == 1 and 'stud' or 'studs'
 		end
