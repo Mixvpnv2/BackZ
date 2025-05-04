@@ -7790,4 +7790,57 @@ run(function()
 	})
 	
 end)
-	
+-- Add to SpeedMethodList
+table.insert(SpeedMethodList, "DoubleJump")
+
+-- Add to SpeedMethods table
+SpeedMethods.DoubleJump = function(options, movevec, dt)
+    if entitylib.isAlive then
+        local root = entitylib.character.RootPart
+        root:SetNetworkOwner(nil) -- Client-side control
+        
+        -- Vertical boost calculation
+        local jumpHeight = options.JumpHeight.Value
+        local newCFrame = root.CFrame + Vector3.new(0, jumpHeight, 0)
+        
+        -- Collision check bypass
+        local ray = workspace:Raycast(root.Position, Vector3.new(0, -5, 0), options.rayCheck)
+        if not ray or ray.Instance.CanCollide == false then
+            root.CFrame = newCFrame
+        end
+    end
+end
+
+-- Add new UI elements
+local DoubleJumpToggle = Speed:CreateToggle({
+    Name = "DoubleJump Mode",
+    Function = function(callback)
+        if callback then
+            Mode:Set("DoubleJump")
+        end
+    end,
+    Tooltip = "CFrame-based mid-air jumps"
+})
+
+local JumpHeight = Speed:CreateSlider({
+    Name = "Jump Height",
+    Min = 5,
+    Max = 100,
+    Default = 25,
+    Suffix = "studs"
+})
+
+-- Modified AutoJump logic
+local jumpCount = 0
+entitylib.characterAdded:Connect(function(char)
+    char.Humanoid.StateChanged:Connect(function(old, new)
+        if new == Enum.HumanoidStateType.Jumping then
+            if jumpCount < 1 and Mode.Value == "DoubleJump" then
+                jumpCount += 1
+                SpeedMethods.DoubleJump(Options, Vector3.zero, 0)
+            end
+        elseif new == Enum.HumanoidStateType.Landed then
+            jumpCount = 0
+        end
+    end)
+end)
