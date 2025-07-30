@@ -1,7 +1,7 @@
 local loadstring = function(...)
 	local res, err = loadstring(...)
 	if err and vape then
-		vape:CreateNotification('BackZ', 'Failed to load : '..err, 30, 'alert')
+		vape:CreateNotification('Vape', 'Failed to load : '..err, 30, 'alert')
 	end
 	return res
 end
@@ -152,7 +152,7 @@ local function serverHop(pointer, filter)
 		table.insert(visited, game.JobId)
 	end
 	if not pointer then
-		notif('BackZ', 'Searching for an available server.', 2)
+		notif('Vape', 'Searching for an available server.', 2)
 	end
 
 	local suc, httpdata = pcall(function()
@@ -165,7 +165,7 @@ local function serverHop(pointer, filter)
 				cacheExpire, cache = tick() + 60, httpdata
 				table.insert(attempted, v.id)
 
-				notif('BackZ', 'Found! Teleporting.', 5)
+				notif('Vape', 'Found! Teleporting.', 5)
 				teleportService:TeleportToPlaceInstance(game.PlaceId, v.id)
 				return
 			end
@@ -174,10 +174,10 @@ local function serverHop(pointer, filter)
 		if data.nextPageCursor then
 			serverHop(data.nextPageCursor, filter)
 		else
-			notif('BackZ', 'Failed to find an available server.', 5, 'warning')
+			notif('Vape', 'Failed to find an available server.', 5, 'warning')
 		end
 	else
-		notif('BackZ', 'Failed to grab servers. ('..(data and data.errors[1].message or 'no data')..')', 5, 'warning')
+		notif('Vape', 'Failed to grab servers. ('..(data and data.errors[1].message or 'no data')..')', 5, 'warning')
 	end
 end
 
@@ -402,7 +402,7 @@ run(function()
 			if self.localprio == 0 then
 				olduninject = vape.Uninject
 				vape.Uninject = function()
-					notif('BackZ', 'No escaping the private members :)', 10)
+					notif('Vape', 'No escaping the private members :)', 10)
 				end
 				vape.Save = function() end
 				if joined then
@@ -427,9 +427,9 @@ run(function()
 
 		if self.localprio > 0 and not self.said[plr.Name] and msg == 'helloimusinginhaler' and plr ~= lplr then
 			self.said[plr.Name] = true
-			notif('BackZ', plr.Name..' is using BackZ!', 60)
+			notif('Vape', plr.Name..' is using vape!', 60)
 			self.customtags[plr.Name] = {{
-				text = 'BackZ USER',
+				text = 'VAPE USER',
 				color = Color3.new(1, 1, 0)
 			}}
 			local newent = entitylib.getEntity(plr)
@@ -595,7 +595,7 @@ run(function()
 					local targets = whitelist.data.Announcement.targets == 'all' and {tostring(lplr.UserId)} or targets:split(',')
 					if table.find(targets, tostring(lplr.UserId)) then
 						local hint = Instance.new('Hint')
-						hint.Text = 'BackZ ANNOUNCEMENT: '..whitelist.data.Announcement.text
+						hint.Text = 'VAPE ANNOUNCEMENT: '..whitelist.data.Announcement.text
 						hint.Parent = workspace
 						game:GetService('Debris'):AddItem(hint, 20)
 					end
@@ -898,8 +898,8 @@ run(function()
 	Speed = AimAssist:CreateSlider({
 		Name = 'Speed',
 		Min = 0,
-		Max = 10,
-		Default = 10
+		Max = 30,
+		Default = 15
 	})
 	AimAssist:CreateToggle({
 		Name = 'Range Circle',
@@ -908,7 +908,7 @@ run(function()
 				CircleObject = Drawing.new('Circle')
 				CircleObject.Filled = CircleFilled.Enabled
 				CircleObject.Color = Color3.fromHSV(CircleColor.Hue, CircleColor.Sat, CircleColor.Value)
-				CircleObject.Position = vape.gui.AbsoluteSize / 1
+				CircleObject.Position = vape.gui.AbsoluteSize / 2
 				CircleObject.Radius = FOV.Value
 				CircleObject.NumSides = 100
 				CircleObject.Transparency = 1 - CircleTransparency.Value
@@ -1898,8 +1898,8 @@ run(function()
 	Options.Value = Fly:CreateSlider({
 		Name = 'Speed',
 		Min = 1,
-		Max = 80,
-		Default = 29,
+		Max = 150,
+		Default = 50,
 		Suffix = function(val)
 			return val == 1 and 'stud' or 'studs'
 		end
@@ -1907,8 +1907,8 @@ run(function()
 	VerticalValue = Fly:CreateSlider({
 		Name = 'Vertical Speed',
 		Min = 1,
-		Max = 100,
-		Default = 21,
+		Max = 150,
+		Default = 50,
 		Suffix = function(val)
 			return val == 1 and 'stud' or 'studs'
 		end
@@ -2961,7 +2961,7 @@ run(function()
 		Value = Speed:CreateSlider({
 			Name = 'Speed',
 			Min = 1,
-			Max = 150,
+			Max = 50000,
 			Default = 50,
 			Suffix = function(val)
 				return val == 1 and 'stud' or 'studs'
@@ -7292,7 +7292,7 @@ run(function()
 	Value = FOV:CreateSlider({
 		Name = 'FOV',
 		Min = 30,
-		Max = 150
+		Max = 120
 	})
 end)
 	
@@ -7790,57 +7790,4 @@ run(function()
 	})
 	
 end)
--- Add to SpeedMethodList
-table.insert(SpeedMethodList, "DoubleJump")
-
--- Add to SpeedMethods table
-SpeedMethods.DoubleJump = function(options, movevec, dt)
-    if entitylib.isAlive then
-        local root = entitylib.character.RootPart
-        root:SetNetworkOwner(nil) -- Client-side control
-        
-        -- Vertical boost calculation
-        local jumpHeight = options.JumpHeight.Value
-        local newCFrame = root.CFrame + Vector3.new(0, jumpHeight, 0)
-        
-        -- Collision check bypass
-        local ray = workspace:Raycast(root.Position, Vector3.new(0, -5, 0), options.rayCheck)
-        if not ray or ray.Instance.CanCollide == false then
-            root.CFrame = newCFrame
-        end
-    end
-end
-
--- Add new UI elements
-local DoubleJumpToggle = Speed:CreateToggle({
-    Name = "DoubleJump Mode",
-    Function = function(callback)
-        if callback then
-            Mode:Set("DoubleJump")
-        end
-    end,
-    Tooltip = "CFrame-based mid-air jumps"
-})
-
-local JumpHeight = Speed:CreateSlider({
-    Name = "Jump Height",
-    Min = 5,
-    Max = 100,
-    Default = 25,
-    Suffix = "studs"
-})
-
--- Modified AutoJump logic
-local jumpCount = 0
-entitylib.characterAdded:Connect(function(char)
-    char.Humanoid.StateChanged:Connect(function(old, new)
-        if new == Enum.HumanoidStateType.Jumping then
-            if jumpCount < 1 and Mode.Value == "DoubleJump" then
-                jumpCount += 1
-                SpeedMethods.DoubleJump(Options, Vector3.zero, 0)
-            end
-        elseif new == Enum.HumanoidStateType.Landed then
-            jumpCount = 0
-        end
-    end)
-end)
+	
